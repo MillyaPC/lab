@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2013.4 (64-bit)
+# SW Build 353583 on Mon Dec  9 17:49:19 MST 2013
+# IP Build 208076 on Mon Dec  2 12:38:17 MST 2013
+# Start of session at: Tue Apr 14 11:11:25 2015
+# Process ID: 6724
+# Log file: D:/ISE/Xilinx/XilinxProj/em_lab2_wuzhengben_358/em_lab2_wuzhengben_358.runs/impl_1/system_wrapper.rdi
+# Journal file: D:/ISE/Xilinx/XilinxProj/em_lab2_wuzhengben_358/em_lab2_wuzhengben_358.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source system_wrapper.tcl -notrace

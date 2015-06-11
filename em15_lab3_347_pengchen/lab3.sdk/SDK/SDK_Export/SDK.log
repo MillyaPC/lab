@@ -1,0 +1,41 @@
+15:12:20.983 INFO  - Processing command line option -hwspec D:/ISE/Xilinx/XilinxProj/Em_lab1_wuzhengben_358/Em_lab1_wuzhengben_358.sdk/SDK/SDK_Export/hw/system.xml. 
+15:15:58.045 INFO  - Processor reset is completed for ps7_cortexa9_0 
+15:15:58.145 INFO  - PS initialization will be done as it is not done before. 
+15:15:58.145 INFO  - Running PS initialization.... 
+15:15:58.348 INFO  - ps7_init is completed. 
+15:15:58.448 INFO  - PS Initialization is complete. 
+15:16:47.871 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+11:16:14.116 INFO  - Processing command line option -hwspec D:/ISE/Xilinx/XilinxProj/em_lab2_wuzhengben_358/em_lab2_wuzhengben_358.sdk/SDK/SDK_Export/hw/system.xml. 
+11:16:17.932 INFO  - The hardware specification for project 'hw_platform_0' is different from D:/ISE/Xilinx/XilinxProj/em_lab2_wuzhengben_358/em_lab2_wuzhengben_358.sdk/SDK/SDK_Export/hw/system.xml. 
+11:16:18.397 INFO  - Copied contents of D:/ISE/Xilinx/XilinxProj/em_lab2_wuzhengben_358/em_lab2_wuzhengben_358.sdk/SDK/SDK_Export/hw/system.xml into \hw_platform_0\system.xml. 
+11:16:18.884 INFO  - Copied contents of D:\ISE\Xilinx\XilinxProj\em_lab2_wuzhengben_358\em_lab2_wuzhengben_358.sdk\SDK\SDK_Export\hw\system_wrapper.bit into \hw_platform_0\system.bit. 
+11:16:27.673 INFO  - Copied contents of D:\ISE\Xilinx\XilinxProj\em_lab2_wuzhengben_358\em_lab2_wuzhengben_358.sdk\SDK\SDK_Export\hw\ps7_init.c into \hw_platform_0\ps7_init.c. 
+11:16:28.188 INFO  - Copied contents of D:\ISE\Xilinx\XilinxProj\em_lab2_wuzhengben_358\em_lab2_wuzhengben_358.sdk\SDK\SDK_Export\hw\ps7_init.h into \hw_platform_0\ps7_init.h. 
+11:16:28.192 INFO  - Copied contents of D:\ISE\Xilinx\XilinxProj\em_lab2_wuzhengben_358\em_lab2_wuzhengben_358.sdk\SDK\SDK_Export\hw\ps7_init.html into \hw_platform_0\ps7_init.html. 
+11:16:28.193 INFO  - Copied contents of D:\ISE\Xilinx\XilinxProj\em_lab2_wuzhengben_358\em_lab2_wuzhengben_358.sdk\SDK\SDK_Export\hw\ps7_summary.html into \hw_platform_0\ps7_summary.html. 
+11:16:28.195 INFO  - Copied contents of D:\ISE\Xilinx\XilinxProj\em_lab2_wuzhengben_358\em_lab2_wuzhengben_358.sdk\SDK\SDK_Export\hw\ps7_init.tcl into \hw_platform_0\ps7_init.tcl. 
+11:16:28.858 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+11:16:34.611 INFO  - Updating MSS for Board Support Package Project: mem_test_bsp.
+		 The following new driver assignments were made:
+			Peripheral Instance: btns_4bit, driver: gpio_v3_01_a.
+			Peripheral Instance: sw_4bit, driver: gpio_v3_01_a.
+ 
+11:16:35.424 INFO  - Updating hardware inferred compiler options for mem_test. 
+11:16:35.429 INFO  - Clearing existing target manager status. 
+11:24:21.291 INFO  - FPGA configured successfully with bitstream "D:/ISE/Xilinx/XilinxProj/em_lab2_wuzhengben_358/em_lab2_wuzhengben_358.sdk/SDK/SDK_Export/hw_platform_0/system.bit" 
+11:24:51.174 INFO  - Processor reset is completed for ps7_cortexa9_0 
+11:24:51.289 INFO  - PS initialization will be done as it is not done before. 
+11:24:51.289 INFO  - Running PS initialization.... 
+11:24:51.527 INFO  - ps7_init is completed. 
+11:24:51.628 INFO  - ps7_post_config is completed. 
+11:24:51.738 INFO  - PS Initialization is complete. 
+11:25:34.624 INFO  - ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:26:05.270 INFO  - FPGA configured successfully with bitstream "D:/ISE/Xilinx/XilinxProj/em_lab2_wuzhengben_358/em_lab2_wuzhengben_358.sdk/SDK/SDK_Export/hw_platform_0/system.bit" 
+11:26:11.796 INFO  - Processor reset is completed for ps7_cortexa9_0 
+11:26:11.906 INFO  - PS initialization will be done as it is not done before. 
+11:26:11.906 INFO  - Running PS initialization.... 
+11:26:12.140 INFO  - ps7_init is completed. 
+11:26:12.249 INFO  - ps7_post_config is completed. 
+11:26:12.358 INFO  - PS Initialization is complete. 
+11:28:14.091 INFO  - Processor reset is completed for ps7_cortexa9_0 
+11:29:28.936 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
