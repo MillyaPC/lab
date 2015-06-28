@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2013.4 (64-bit)
+# SW Build 353583 on Mon Dec  9 17:49:19 MST 2013
+# IP Build 208076 on Mon Dec  2 12:38:17 MST 2013
+# Start of session at: Sat Jun 27 14:28:29 2015
+# Process ID: 7152
+# Log file: D:/study/zybo/em15_lab4_347_pengchen/vivado.log
+# Journal file: D:/study/zybo/em15_lab4_347_pengchen\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:\study\zybo\em15_lab4_347_pengchen\lab4.xpr}
+save_project_as em15_lab5_347_pengchen D:/study/zybo/em15_lab5_347_pengchen -force
+launch_sdk -workspace D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export -hwspec D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export/hw/system.xml
+launch_sdk -workspace D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export -hwspec D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export/hw/system.xml
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream
+wait_on_run impl_1
+open_run impl_1
+launch_sdk -workspace D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export -hwspec D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export/hw/system.xml
+export_hardware [get_files D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.srcs/sources_1/bd/system/system.bd] [get_runs impl_1] -bitstream
+export_hardware [get_files D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.srcs/sources_1/bd/system/system.bd] [get_runs impl_1] -bitstream
+launch_sdk -workspace D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export -hwspec D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export/hw/system.xml
+launch_sdk -workspace D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export -hwspec D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export/hw/system.xml
+launch_sdk -workspace D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export -hwspec D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export/hw/system.xml
+launch_sdk -workspace D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export -hwspec D:/study/zybo/em15_lab5_347_pengchen/em15_lab5_347_pengchen.sdk/SDK/SDK_Export/hw/system.xml
